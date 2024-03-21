@@ -1,0 +1,4 @@
+name: SamplePlugin2
+version: '${project.version}'
+main: org.tofu.sampleplugin2.SamplePlugin2
+api-version: '1.16'
